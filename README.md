@@ -1,4 +1,4 @@
-##Replication code and Data for 
+#Replication code and Data for 
 
 "Modeling of Covid-19 Pandemic in Cyprus" 
 
