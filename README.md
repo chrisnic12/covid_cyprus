@@ -1,8 +1,10 @@
-Replication code and Data for 
+### Replication code and Data for 
 
-"Modeling of Covid-19 Pandemic in Cyprus" 
+## "Modeling of Covid-19 Pandemic in Cyprus" 
 
-by Sergios Agapiou, Andreas Anastasiou, Anastassia Baxevani, Tasos Christofides, Elisavet Constantinou, Georgios Hadjigeorgiou, Christos Nicolaides, Georgios Nikolopoulos, and Konstantinos Fokianos
+# by Sergios Agapiou, Andreas Anastasiou, Anastassia Baxevani, Tasos Christofides, Elisavet Constantinou, Georgios Hadjigeorgiou, Christos Nicolaides, Georgios Nikolopoulos, and Konstantinos Fokianos
+
+# Inquiries
 
 For replication of Figure 2,3,4 & 14 contact baxevani.anastasia [at] ucy.ac.cy
 
